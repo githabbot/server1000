@@ -245,14 +245,11 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {166846849},--Sudo users
+	    sudo_users = {195473011,123473732,},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
-
-channel : @arabi311
-sodu : @arabi373
+    about_text =[[ 
+sodu : @x_danger_x
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -512,7 +509,7 @@ G00D LUCK ^_^
 end
 
 function on_our_id (id)
-  our_id = id
+  our_id = @x_danger_x
 end
 
 function on_user_update (user, what)
