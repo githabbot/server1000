@@ -1,6 +1,6 @@
 
 local function run(msg)
-if msg.text == "دنجر" then
+if msg.text == "طاها" then
 	return "کی اسم سازندمو صدا زد؟"
 end
 if msg.text == "Umbrella" then
@@ -53,6 +53,10 @@ if msg.text == "XY" then
 end
 if msg.text == "Xy" then
 	return "Bye Bye"
+end
+local function run(msg)
+if msg.text == "سناتور" then
+	return "کی اسم سازندمو صدا زد؟"
 end
 end
 
