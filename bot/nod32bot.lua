@@ -249,7 +249,8 @@ function create_config( )
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text =[[ 
-sodu : @x_danger_x
+sodu : @Motion_Graphics_Boy
+@senator_blackk
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -509,7 +510,7 @@ G00D LUCK ^_^
 end
 
 function on_our_id (id)
-  our_id = @x_danger_x
+  our_id = 195473011,196711305,123473732
 end
 
 function on_user_update (user, what)
